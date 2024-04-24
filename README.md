@@ -6,7 +6,7 @@
 
 <h2 align="center">Who is EmberGlow🥇?</h2>
 <p>
-Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
+Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in deep learning. Always eager to learn and love to help others.
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
@@ -16,7 +16,7 @@ Passionate Full-stack Developer specialized in scalable web & mobile development
 <!--   <img style="display: none;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EmberGlow&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27"> -->
 <!-- </p> -->
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;" />
 </p>
 
 ### Skills
