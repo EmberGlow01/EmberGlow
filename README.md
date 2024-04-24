@@ -1,7 +1,7 @@
 ### Hi everyone! It is my job to bring everything to reality. 👋
 
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1297706369/vector/sun-paint-brush-strokes-on-white-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=BvQi1mWNRrgaEJ5_AhOfs7OuXiCRb91-JJUI93LlAHg=">
+  <img src="https://media.istockphoto.com/id/1297706369/vector/sun-paint-brush-strokes-on-white-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=BvQi1mWNRrgaEJ5_AhOfs7OuXiCRb91-JJUI93LlAHg=" width="300" height="300">
 </p>
 
 <h2 align="center">Who is EmberGlow🥇?</h2>
